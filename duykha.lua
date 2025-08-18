@@ -1,8 +1,6 @@
--- Menu Mod
 local HubName = "Duy Kha AuthenticHub🇻🇳"
 local LogoImage = "http://www.roblox.com/asset/?id=14981376704"
 local ColorTheme = Color3.fromRGB(0, 255, 145)
--- script
 local BountyWhenStart = game:GetService("Players").LocalPlayer.leaderstats["Bounty/Honor"].Value
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
